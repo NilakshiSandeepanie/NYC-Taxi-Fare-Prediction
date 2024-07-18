@@ -1,4 +1,4 @@
-# NYC-Taxi-Fare-Prediction
+# NYC-Taxi-Fare-Prediction🚕
 Predicting taxi fares in NYC using machine learning techniques on a dataset of taxi trip records.
 
 Libraries Utilised : 
@@ -12,4 +12,6 @@ NumPy        -  Fundamental package for scientific computing in Python.
 Matplotlib   -  Comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 Seaborn      -  Statistical data visualization library based on Matplotlib
+
+
 
